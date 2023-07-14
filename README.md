@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Whienus</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 👨‍💻 All of my projects are available at [I will add soon](I will add soon)
+- 👨‍💻 All of my projects are available at [I will add soon]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
