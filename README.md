@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href= "https://www.behance.net/Whienus"><img src="[https://img.icons8.com/windows/32/000000/dev.png](https://imgur.com/XfOwMU8)"/></a>
+<a href= "https://www.behance.net/Whienus"><img src="https://imgur.com/XfOwMU8"/></a>
 <a href= "https://twitter.com/whienus"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/whienus"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
