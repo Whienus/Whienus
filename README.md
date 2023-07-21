@@ -1,5 +1,6 @@
 
 <h4 align="center"><samp>Hi there, welcome to my github. I am a professional graphic designer and digital illustrator.</samp></h4>
+<h4 align="center"><samp>I use this platform to improve myself. I will publish the projects I have done and edited here.</samp></h4>
 
 <p align="center">
   <img width="250" src="https://camo.githubusercontent.com/32a1c05d689a7b80ec2566e81b9d257ef5854287f65fa14bd82cec278fdf968e/68747470733a2f2f692e696d6775722e636f6d2f383430623050582e676966">
