@@ -8,7 +8,7 @@
 
 
 <p align="center">
-<a href= "https://www.behance.net/Whienus"><img src="https://imgur.com/XfOwMU8"/></a>
+<a href= "https://www.behance.net/Whienus"><img src="https://imgur.com/XfOwMU8](https://github.com/Whienus/Whienus/assets/38189057/6d2b1caf-eff3-4438-a2fc-43f998dbd476"/></a>
 <a href= "https://twitter.com/whienus"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
 <a href= "https://ko-fi.com/whienus"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
 </p>
