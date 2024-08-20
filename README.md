@@ -5,4 +5,4 @@
 <img src="https://img.shields.io/static/v1?label=Overview&message=whienus&color=163281&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <p>Works as a freelancer<br/>I will add more information about me later</p>
-<h4><b><i>Skills</i></b>b><p><p>i will add later.
+<h4><b><i>Skills</i></b><p><p>i will add later.
