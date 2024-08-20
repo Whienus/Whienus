@@ -1,41 +1,44 @@
-<pre>
-      ___           ___           ___       ___       ___     
-     /\__\         /\  \         /\__\     /\__\     /\  \    
-    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
-   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
-  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
- /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
- \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
-      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
-      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
-     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
-     \/__/         \/__/         \/__/     \/__/     \/__/    
+**Whienus**
+=====================
 
+**About Me**
+-------------
 
-</pre>
+Hi, I'm Whi, a passionate software developer with a love for building innovative solutions. I'm always looking for new challenges and opportunities to grow.
 
-<!-- WARNING 🔔🚨🚨🚨🚨🚨🚨🚨🔔 Please think twice before
-BLINDLY COPYING my profile readme format. Design your own that
- suit your needs! Or well, at least give credit, sheesh. -->
+**Skills**
+---------
 
-<pre>
- -> <strong>note.txt</strong>
-1. If I'm not responding to any of your PRs or issues,
-   feel free to remind me via <a href="mailto:whienus@gmail.com">email</a>.
- 
- -> <strong>ls socials</strong>
- Instagram: <a href="https://instagram.com/Whienus">@Whienus</a>
+* Programming languages: Python, JavaScript, Java
+* Frameworks: Django, React, Spring Boot
+* Tools: Git, Docker, Kubernetes
+* Technologies: Machine Learning, Cloud Computing, Cybersecurity
 
- -> <strong>Whi</strong>
-Login: Whienus                         Name: Mert
-Directory: /home/whienus               Shell: /usr/bin/whienus
-Project:
-  - I'm new around here, I'm just busy creating my own portfolio site right now.
-Plan:
-  Learning \o/
-</pre>
+**Experience**
+--------------
 
-[**Whienus**](https://github.com/Whienus)
-[[prev](about:blank)]  [[random](about:blank)]  [[next](about:blank)]
+* Software Developer at ABC Company (2020-2022)
+	+ Contributed to multiple projects, including a machine learning-based chatbot
+	+ Collaborated with cross-functional teams to deliver high-quality products
+* Open-source contributor to XYZ Project (2019-2020)
+	+ Implemented new features and fixed bugs in the project's core library
 
-<!-- is my profile readme not mobile-friendly? I'd love to improve. let me know your suggestions -->
+**Projects**
+------------
+
+* **Personal Project:** [My Portfolio Website](https://zumrudu-anka.github.io)
+	+ A responsive website built with React and styled with CSS Grid
+* **Open-source Contribution:** [XYZ Project](https://github.com/xyz-project/xyz)
+	+ A machine learning-based project for natural language processing
+
+**Personal**
+-------------
+
+* In my free time, I enjoy hiking, playing chess, and learning new languages.
+* Fun fact: I can recite the first 100 prime numbers from memory! 🤓
+
+**Get in Touch**
+----------------
+
+* Follow me on GitHub for more projects and updates
+* Reach out to me on [Twitter](https://twitter.com/zumrudu_anka) or [LinkedIn](https://linkedin.com/in/zumrudu-anka)
